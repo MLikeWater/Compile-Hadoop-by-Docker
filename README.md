@@ -14,6 +14,6 @@
     sudo docker run -v $(pwd)/hadoop-$VERSION-src:/hadoop-$VERSION-src jiangshouzhuang/compile-hadoop-by-docker /root/compile.sh $VERSION
 
 4. 编译好的Hadoop包路径
-hadoop-2.7.3-src/hadoop-dist/target/hadoop-2.3.0.tar.gz
+    hadoop-2.7.3-src/hadoop-dist/target/hadoop-2.3.0.tar.gz
 
 注：根据自己的需求，选择合适的Hadoop版本进行编译
