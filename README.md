@@ -2,6 +2,7 @@
 1. 通过Docker容器编译Hadoop
     第一种方法：从Docker Hub下载镜像
     sudo docker pull jiangshouzhuang/compile-hadoop-by-docker
+    
     第二种方法：自己构建镜像
     sudo docker build -t jiangshouzhuang/compile-hadoop-by-docker .
 
