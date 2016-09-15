@@ -25,4 +25,4 @@
 
     hadoop-2.7.3-src/hadoop-dist/target/hadoop-2.3.0.tar.gz
 
-注：根据自己的需求，选择合适的Hadoop版本进行编译
+注：根据自己的需求，选择合适的Hadoop版本进行编译；另外，Dockerfile中的JDK版本和路径根据自己的实际情况配置。
